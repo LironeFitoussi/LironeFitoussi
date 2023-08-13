@@ -19,4 +19,5 @@ Full Stack Developer
       <li>Contains Resume made using HTML while learning trought Angela Yu Class via Udemy </li>
     </ul>
   </li>
+  <li>
 </ul>
