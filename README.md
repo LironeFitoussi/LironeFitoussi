@@ -13,11 +13,16 @@ Full Stack Developer
 </p>
 
 <ul>
-  <li>
-    CV
-    <ul>
-      <li>Contains Resume made using HTML while learning trought Angela Yu Class via Udemy </li>
-    </ul>
-  </li>
-  <li>
-</ul>
+    <li>
+      CV
+      <ul>
+        <li>Contains Resume made using HTML while learning trought Angela Yu Class via Udemy</li>
+      </ul>
+    </li>
+    <li>
+        CSS
+        <ul>
+            <li>Updated Resume made using HTML and CSS while learning trought Angela Yu Class</li>
+        </ul>
+    </li>
+  </ul>
