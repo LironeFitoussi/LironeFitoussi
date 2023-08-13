@@ -25,4 +25,10 @@ Full Stack Developer
             <li>Updated Resume made using HTML and CSS while learning trought Angela Yu Class</li>
         </ul>
     </li>
+    <li>
+        product-preview-card-component-1.0
+        <ul>
+            <li>First challange made with frontendmentor.io</li>
+        </ul>
+    </li>
   </ol>
