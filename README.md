@@ -11,3 +11,12 @@ Full Stack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Js" width="40" height="40"/>&nbsp;
 </p>
+
+<ul>
+  <li>
+    CV
+    <ul>
+      <li>Contains Resume made using HTML while learning trought Angela Yu Class via Udemy </li>
+    </ul>
+  </li>
+</ul>
