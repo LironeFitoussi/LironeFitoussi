@@ -12,7 +12,7 @@ Full Stack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Js" width="40" height="40"/>&nbsp;
 </p>
 
-<ul>
+<ol>
     <li>
       CV
       <ul>
@@ -25,4 +25,4 @@ Full Stack Developer
             <li>Updated Resume made using HTML and CSS while learning trought Angela Yu Class</li>
         </ul>
     </li>
-  </ul>
+  </ol>
