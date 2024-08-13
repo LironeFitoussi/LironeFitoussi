@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lironefitoussi" alt="lironefitoussi" /></a> </p>
 
-- 🔭 I’m currently working on [Apple Music Clone](https://github.com/LironeFitoussi/Apple-Music)
+- 🔭 I’m currently working on [Chater.io](https://github.com/LironeFitoussi/Chater.io)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python and Testing**
 
 - 👯 I’m looking to collaborate on **Innovative Projects**
 
