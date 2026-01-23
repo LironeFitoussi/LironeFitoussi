@@ -7,7 +7,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws"/>
 </p>
-
+<p align="center">
+  <a href="https://www.credly.com/badges/ae09469c-307b-40cd-937e-854e6d0217e1/public_url" target="_blank">
+    <img 
+      src="https://images.credly.com/size/340x340/images/0e284c8c-3a5b-4c6f-bb1d-1fef5c6a0e91/aws-certified-solutions-architect-associate.png"
+      width="140"
+      alt="AWS Certified Solutions Architect – Associate"
+    />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lironefitoussi&label=Profile%20Views&color=blue&style=flat-square"/>
   <img src="https://img.shields.io/badge/Linux-Power%20User-black?style=flat-square&logo=linux"/>
