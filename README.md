@@ -1,139 +1,126 @@
-<h1 align="center">Hi, I'm Lirone Fitoussi</h1>
-<h3 align="center">
-Full-Stack & DevOps Engineer · Instructor · Systems Builder
-</h3>
+<h1 align="center">👋 Hi, I'm Lirone Fitoussi</h1>
 
 <p align="center">
-Israel · Linux · Cloud · Backend-first
+  <b>Full-Stack & DevOps Engineer · Instructor · Systems Builder</b><br/>
+  Israel · Linux · Backend · Cloud
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lironefitoussi&label=Profile%20views&color=0e75b6&style=flat" alt="lironefitoussi" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lironefitoussi&label=Profile%20Views&color=blue&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-Power%20User-black?style=flat-square&logo=linux"/>
+  <img src="https://img.shields.io/badge/Backend-First-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DevOps-Mindset-orange?style=flat-square"/>
 </p>
 
----
+<hr/>
 
-## 👨‍💻 About Me
-
-I’m a **Full-Stack & DevOps Engineer** with strong focus on **backend systems, infrastructure, automation, and teaching**.
-
-I design and build:
-- Production-grade backend APIs
-- Linux-based infrastructures and labs
-- CI/CD pipelines and cloud deployments
-- Complete learning programs for developers and IT engineers
-
-I also work as an **instructor**, building structured courses in:
-Linux · Networking · DevOps · Backend Development · Cloud Fundamentals
-
----
-
-## 🔭 Current Focus
-
-- Building **real-world backend systems** (Node.js, APIs, databases)
-- Designing **DevOps & Linux labs** for students
-- Infrastructure automation and cloud environments
-- Teaching **how systems actually work**, not just frameworks
-
----
-
-## 🌱 Currently Learning / Deepening
-
-- Python (backend & automation)
-- Testing (backend & system-level)
-- Advanced Linux internals
-- Cloud architecture patterns
-
----
-
-## 🧠 Strong Knowledge Areas
-
-- Backend architecture & APIs
-- Linux systems & networking
-- DevOps fundamentals and practices
-- Teaching complex technical topics clearly
-
----
-
-## 🤝 Collaboration
-
-Open to collaboration on:
-- Backend-heavy projects
-- DevOps / infrastructure tools
-- Educational or open-knowledge initiatives
-- Systems-oriented products
-
----
-
-## 📂 Projects & Work
-
-👨‍💻 Portfolio & projects:  
-👉 https://lirone-fitoussi-dev.onrender.com/development
-
----
-
-## 📫 Contact
-
-- Email: **lironefit@gmail.com**
-- LinkedIn: https://linkedin.com/in/lirone-fitoussi
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/lirone-fitoussi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/lirone.fitoussi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/fistukf" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-**Backend & Programming**
-- Node.js · JavaScript · TypeScript
-- Python · C · C#
-- REST APIs · Authentication · System Design
-
-**Frontend**
-- React · Vite
-- HTML · CSS · Tailwind
-
-**Databases**
-- MongoDB
-- PostgreSQL
-
-**DevOps & Infrastructure**
-- Linux (Ubuntu, Server, CLI)
-- Docker
-- Git & GitHub
-- CI/CD concepts
-- AWS fundamentals
-
-**Tools**
-- Postman
-- Bash
-- VS Code
-
----
-
-## 📊 GitHub Stats
+<h2>🧠 Who Am I</h2>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lironefitoussi&show_icons=true&layout=compact" />
+I’m a <b>Full-Stack & DevOps Engineer</b> with a strong focus on
+<b>backend systems, Linux, infrastructure, and teaching</b>.
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lironefitoussi&show_icons=true" />
+I don’t just build apps – I build <b>systems</b>, <b>labs</b>, and <b>learning environments</b>.
 </p>
 
+<ul>
+  <li>Backend APIs & system design</li>
+  <li>Linux & networking fundamentals</li>
+  <li>DevOps pipelines & automation</li>
+  <li>Instructor for IT & Dev courses</li>
+</ul>
+
+<hr/>
+
+<h2>🔭 What I’m Working On</h2>
+
+<ul>
+  <li>Backend-heavy projects (Node.js, APIs, Databases)</li>
+  <li>Linux & DevOps labs for students</li>
+  <li>Infrastructure & automation tooling</li>
+  <li>Teaching how systems really work</li>
+</ul>
+
+<hr/>
+
+<h2>🌱 Currently Learning</h2>
+
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lironefitoussi" />
+  <img src="https://img.shields.io/badge/Python-Automation-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Testing-Backend%20%26%20Systems-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-Internals-black?style=flat-square&logo=linux"/>
+  <img src="https://img.shields.io/badge/Cloud-Architecture-orange?style=flat-square&logo=amazonaws"/>
+</p>
+
+<hr/>
+
+<h2>🛠 Tech Stack</h2>
+
+<h4>Backend & Languages</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+</p>
+
+<h4>Frontend</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+<h4>Databases</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
+
+<h4>DevOps & Systems</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+</p>
+
+<hr/>
+
+<h2>📂 Projects</h2>
+
+<p>
+👉 <a href="https://lirone-fitoussi-dev.onrender.com/development">
+Portfolio & Development Projects
+</a>
+</p>
+
+<hr/>
+
+<h2>📫 Contact</h2>
+
+<ul>
+  <li>Email: <b>lironefit@gmail.com</b></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/lirone-fitoussi">lirone-fitoussi</a></li>
+</ul>
+
+<hr/>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lironefitoussi&show_icons=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lironefitoussi&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lironefitoussi"/>
 </p>
