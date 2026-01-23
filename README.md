@@ -4,6 +4,9 @@
   <b>Full-Stack & DevOps Engineer · Instructor · Systems Builder</b><br/>
   Israel · Linux · Backend · Cloud
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lironefitoussi&label=Profile%20Views&color=blue&style=flat-square"/>
